@@ -1,4 +1,4 @@
-package com.example.morgagecalculator;
+package com.example.mortgagecalculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 
